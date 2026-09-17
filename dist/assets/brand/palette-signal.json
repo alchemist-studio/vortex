@@ -1,0 +1,17 @@
+{
+  "brand": "Vortex",
+  "descriptor": "AI Company brain",
+  "direction": "Signal Blue",
+  "colors": {
+    "surface": "#0D1423",
+    "primary_text": "#F4F7FF",
+    "accent": "#79AAFF",
+    "field": "#3678EE",
+    "secondary_text": "#ACB6CA"
+  },
+  "typography": {
+    "headings": "Inter",
+    "body": "Inter",
+    "metadata": "System monospace"
+  }
+}
