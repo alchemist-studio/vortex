@@ -2,7 +2,7 @@
 
 The standalone **Wordmark horizon** landing page, selected from sketch 09.
 
-[Open the website](https://alchemist-studio.github.io/vortex-studio/)
+[Open the website](https://alchemist-studio.github.io/vortex/)
 
 Purple canvas, the original Vortex symbol, Instrument Sans for the headline and wordmark, and JetBrains Mono for the labels. Responsive desktop and phone layouts. The older `/sketches/` URL redirects to the homepage.
 
